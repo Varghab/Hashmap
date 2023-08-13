@@ -1,6 +1,6 @@
 ## 1. Longest Subarray Zero Sum
 
-```py
+```cpp
 #include <bits/stdc++.h> 
 #include <bits/stdc++.h> 
 int LongestSubsetWithZeroSum(vector < int > arr) {
